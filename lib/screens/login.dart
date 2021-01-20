@@ -93,7 +93,7 @@ class _Login extends State<Login> {
               decoration: BoxDecoration(
                   color: Colors.white,
                   borderRadius: BorderRadius.circular(20.0),
-                  border: Border.all(color: Colors.red)
+                  border: Border.all(color: Colors.black)
 
               ),
               child: SafeArea(
